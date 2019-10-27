@@ -15,6 +15,7 @@ sudo apt-get install gcc-multilib g++-multilib
 Add modelsim executables to PATH:
 
 export MTI_HOME=/path/to/modelsim_ase
+
 export PATH=$MTI_HOME/linuxaloem/:$PATH
 
 
